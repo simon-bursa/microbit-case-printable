@@ -3,7 +3,7 @@
 ## Introduction
 This documentation describes the design of personalized case lids for the micro:bit microcontroller. The project focuses on creating case lids that allow users to personalize and allow users to customize the appearance of their micro:bit.
 
-![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/53c3eedb7173626aad6c0da48177d6dc600486d4/presentation/thumbnail_photo.jpg)
+![foto](presentation/thumbnail_photo.jpg)
 
 
 ## Project description
@@ -15,22 +15,22 @@ This documentation describes the design of personalized case lids for the micro:
 
 ## Usage
 ### Connecting the case to the micro:bit
-To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the [micro:bit battery case](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/battery_case) so that the case lid connects to the battery case.
+To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the [micro:bit battery case](battery_case/) so that the case lid connects to the battery case.
 
-![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/798ab46735120d5c9d8dcf407253a5132db58061/presentation/battery_case_photo.jpg)
+![foto](presentation/battery_case_photo.jpg)
 
 
 ## 3D Print
-**1. Download files (STL):** You can find them [here](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/print_STL).
+**1. Download files (STL):** You can find them [here](print_STL/).
 
 **2. Insertion into the slicer:** Set the color layer distribution, it is recommended to use two contrasting colors per case lid. Set the print fill rate to 20%. 
 
 **3. Printing:** Printing one case lid should take approximately 30-45 minutes if set up correctly.
 
 ## Used references
-The [BLOXAT font](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/font) was used in this project.
+The [BLOXAT font](font/) was used in this project.
 
-The battery case used in this project is a modified version of the [UOB battery case](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/battery_case).
+The battery case used in this project is a modified version of the [UOB battery case](battery_case/).
 
 [SOLIDWORKS software](https://www.solidworks.com/) was used to design the case lids.
 
