@@ -37,3 +37,8 @@ The battery case used in this project is a modified version of the [UOB battery 
 ## Conclusion
 
 Personalized case lids for the micro:bit microcontroller provide users with the ability to customize and extend the functionality of their micro:bit. The project is based on easy to connect caps and allows users to create and experiment with the micro:bit microcontroller.
+
+
+todo:
+vylepsit prostor pro kabely
+lepsi drzeni vika
